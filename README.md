@@ -42,16 +42,25 @@ The last stop of configuration is to get Git working with your code editor. Belo
 
 		git config --global core.editor "code --wait"
 		
-Repository Commands
-git init
-Create brand new repositorie(reps) on your computer.
-git clone
-Copy existing repos from somewhere else to your local computer
-git status 
-Check the status of a repo.
-Useful Commands
-ls - Used to list files and directories
-mkdir - Used to create a new directory
-cd - Used to change directories
-rm- Used to remove files and directories
-git status
+# Repository Commands
+* git init
+	
+		* Create brand new repositorie(reps) on your computer.
+	
+* git clone
+
+		* Copy existing repos from somewhere else to your local computer.
+	
+* git status
+
+		* Check the status of a repo.
+	
+# Useful Commands
+		1. ls - Used to list files and directories.
+	
+		2. mkdir - Used to create a new directory.
+	
+		3. cd - Used to change directories.
+	
+		4. rm- Used to remove files and directories.
+
