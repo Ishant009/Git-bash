@@ -227,8 +227,8 @@ The last stop of configuration is to get Git working with your code editor. Belo
 
 	--hard  The changes are complete erased
 	
-*Backup Branch
+* Backup Branch
 	
-	>>git branch backup
+		>>git branch backup
 
 
