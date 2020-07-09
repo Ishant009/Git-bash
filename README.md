@@ -19,7 +19,7 @@
 		
 * Makes sure that Git output is colored:
 
-		>>git congig --global color.ui auto
+		>>git config --global color.ui auto
 		
 * Displays the original state in a conflict:
 		
